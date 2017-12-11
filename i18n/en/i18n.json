@@ -32,9 +32,9 @@
     "feedback-generic": "Something did not work. Please try again.",
     "feedback-blank-fields": "Please fill in all the fields of the feedback form.",
     "no-images-found": "This Wikipedia page does not contain any images.",
-    "no-wiki-url": "The referenced site is not a Wikimedia page.",
-    "invalid-email-format": "The given email address does not match the valid format.",
-    "no-cc-licence": "This file is not under a Creative Commons license."
+    "no-wiki-url": "The referenced site is not a Wikimedia website.",
+    "invalid-email-format": "The given e-mail address does not match the valid format.",
+    "no-cc-licence": "This file is not licensed under a Creative Commons license."
   },
   "info-box": {
     "private-use": "For most purely private uses, you do not need a license notice.",
@@ -87,19 +87,19 @@
     "creator": "Creator",
     "licence": "License",
     "back-to-top": "Check another image",
-    "force-pd-attribution": "Create a rights notice anyway",
+    "force-pd-attribution": "Create a rights notice anyway.",
     "pd-attribution-hint": "marked as public domain",
     "check-details": "more details on",
     "here": "here",
-    "mark-as-pd": "als gemeinfrei markieren"
+    "mark-as-pd": "mark as public domain"
   },
   "evaluation": {
     "by": "by",
     "edited": "modified",
     "done-text": "You have answered all questions. You are ready to use the correct license notice.",
-    "done-text-legal-notice": "You have answered all questions. You are ready to use the correct legal notice.",
+    "done-text-legal-notice": "You have answered all questions. You can use the license notice now.",
     "your-attribution": "Your license notice",
-    "your-legal-notice": "Your legal notice",
+    "your-legal-notice": "Your license notice",
     "copy": "Copy",
     "do-print-text": "You should show this information as close to the image as resonably possible (e.g. directly below it). In any case, viewers must be able to find the information easily. If you have a book or magazine, the attributions could also be placed in the imprint or at another standard location, as long as one can easily identify the image each attribution info belongs to (e.g. by providing the page number).",
     "do-online-text": "Please note, that the license notice includes hyperlinks, which have to be included wherever you make use of the license notice. You should show this information as close to the image as resonably possible (e.g. directly below it). In any case, viewers must be able to find the information easily. To make it easier for you, the tool provides the attribution including all hyperlinks in plain text format and as an html snippet. This way, you can transfer it directly into the source code of your webpage.",
